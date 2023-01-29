@@ -1,0 +1,6 @@
+{
+  "0.weight": "model_0.weight.pt",
+  "0.bias": "model_0.bias.pt",
+  "1.weight": "model_1.weight.pt",
+  "1.bias": "model_1.bias.pt"
+}
